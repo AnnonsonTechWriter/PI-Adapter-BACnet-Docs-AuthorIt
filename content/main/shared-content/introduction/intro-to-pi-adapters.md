@@ -24,5 +24,9 @@ The following diagram depicts the collection and processing of data for an opera
 
 1. The adapter sends OMF data to a supported storage location in a process known as *data egress*. Supported egress endpoints include:
 
+<<<<<<< HEAD
    * PI Server
+=======
+   * AVEVA Server
+>>>>>>> 2aa7677ab4561ffade42f8755ddd7e7697839279
    * AVEVA Data Hub
